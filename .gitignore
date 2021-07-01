@@ -16,6 +16,7 @@
 !/.minecraft/config/
 /.minecraft/config/splash.properties
 /.minecraft/config/InvTweaks.cfg
+/.minecraft/config/thaumicjei_itemstack_aspects.json
 
 #other stuff
 !/.minecraft/patchouli_books
@@ -34,4 +35,3 @@
 !/.minecraft/mods
 /.minecraft/mods/*
 !/.minecraft/mods/randomtweaker*.jar
-
