@@ -1,0 +1,37 @@
+#Whitelist
+/*
+!/.minecraft
+/.minecraft/*
+
+#repo stuff
+!/.github
+!/docs
+!/runners
+!/LICENSE
+!/README.md
+!/CHANGELOG
+!/icon.png
+
+#configs
+!/.minecraft/config/
+/.minecraft/config/splash.properties
+/.minecraft/config/InvTweaks.cfg
+
+#other stuff
+!/.minecraft/patchouli_books
+!/.minecraft/resources
+!/.minecraft/scripts
+!/.gitignore
+
+#pack stuff
+/instance.cfg
+/mmc-pack.json
+!/modlist.html
+!/manifest.json
+!/.minecraft/icon.png
+
+# utils mod
+!/.minecraft/mods
+/.minecraft/mods/*
+!/.minecraft/mods/randomtweaker*.jar
+
